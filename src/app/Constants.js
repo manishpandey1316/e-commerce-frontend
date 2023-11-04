@@ -1,0 +1,2 @@
+export const LIMIT_PER_PAGE_PRODUCTS=10
+export const LIMIT_PER_PAGE_ORDERS=5
